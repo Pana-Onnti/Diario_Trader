@@ -1,0 +1,10 @@
+env/
+virtualenv/
+Archivos modelo/
+Archivos modelo
+backup
+backup/
+__pycache__/
+flask_session
+extra/
+extra

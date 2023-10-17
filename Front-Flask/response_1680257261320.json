@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "Ticker": "FB",
+      "Fecha_Entrada": "2023-03-31T07:04:45.897158",
+      "Fecha_Salida": "2023-03-31T07:04:45.897158",
+      "Precio_Entrada": 10,
+      "Direccion": 1,
+      "Precio_Salida": 120,
+      "Comision": 0,
+      "Id_Notas": 0,
+      "Estado": 0,
+      "Id_Cuenta": 31
+    },
+    {
+      "Ticker": "AMZN",
+      "Fecha_Entrada": "2023-03-31T07:05:08.233507",
+      "Fecha_Salida": "2023-03-31T07:05:08.233507",
+      "Precio_Entrada": 1034,
+      "Direccion": 1,
+      "Precio_Salida": 1202,
+      "Comision": 0,
+      "Id_Notas": 0,
+      "Estado": 0,
+      "Id_Cuenta": 31
+    },
+    {
+      "Ticker": "GGAL",
+      "Fecha_Entrada": "2023-03-31T07:05:23.860299",
+      "Fecha_Salida": "2023-03-31T07:05:23.860299",
+      "Precio_Entrada": 1054,
+      "Direccion": 1,
+      "Precio_Salida": 1202,
+      "Comision": 0,
+      "Id_Notas": 0,
+      "Estado": 0,
+      "Id_Cuenta": 31
+    },
+    {
+      "Ticker": "MSFT",
+      "Fecha_Entrada": "2023-03-31T07:05:44.814576",
+      "Fecha_Salida": "2023-03-31T07:05:44.814576",
+      "Precio_Entrada": 2454,
+      "Direccion": 1,
+      "Precio_Salida": 2502,
+      "Comision": 0,
+      "Id_Notas": 0,
+      "Estado": 0,
+      "Id_Cuenta": 31
+    },
+    {
+      "Ticker": "TSLA",
+      "Fecha_Entrada": "2023-03-31T07:06:05.542313",
+      "Fecha_Salida": "2023-03-31T07:06:05.542313",
+      "Precio_Entrada": 3554,
+      "Direccion": 1,
+      "Precio_Salida": 3702,
+      "Comision": 0,
+      "Id_Notas": 0,
+      "Estado": 0,
+      "Id_Cuenta": 31
+    }
+  ]
+]

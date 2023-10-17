@@ -1,0 +1,67 @@
+[
+    {
+        "Ticker": "FB",
+        "Fecha_Entrada": "31/03/2023 07:04:45",
+        "Fecha_Salida": "31/03/2023 07:04:45",
+        "Precio_Entrada": 10.0,
+        "Direccion": "LONG",
+        "Precio_Salida": 120.0,
+        "Comision": 0.0,
+        "Id_Notas": 0,
+        "Estado": "Close",
+        "Id_Cuenta": 31,
+        "id": 1
+    },
+    {
+        "Ticker": "AMZN",
+        "Fecha_Entrada": "31/03/2023 07:05:08",
+        "Fecha_Salida": "31/03/2023 07:05:08",
+        "Precio_Entrada": 1034.0,
+        "Direccion": "LONG",
+        "Precio_Salida": 1202.0,
+        "Comision": 0.0,
+        "Id_Notas": 0,
+        "Estado": "Close",
+        "Id_Cuenta": 31,
+        "id": 2
+    },
+    {
+        "Ticker": "GGAL",
+        "Fecha_Entrada": "31/03/2023 07:05:23",
+        "Fecha_Salida": "31/03/2023 07:05:23",
+        "Precio_Entrada": 1054.0,
+        "Direccion": "LONG",
+        "Precio_Salida": 1202.0,
+        "Comision": 0.0,
+        "Id_Notas": 0,
+        "Estado": "Close",
+        "Id_Cuenta": 31,
+        "id": 3
+    },
+    {
+        "Ticker": "MSFT",
+        "Fecha_Entrada": "31/03/2023 07:05:44",
+        "Fecha_Salida": "31/03/2023 07:05:44",
+        "Precio_Entrada": 2454.0,
+        "Direccion": "LONG",
+        "Precio_Salida": 2502.0,
+        "Comision": 0.0,
+        "Id_Notas": 0,
+        "Estado": "Close",
+        "Id_Cuenta": 31,
+        "id": 4
+    },
+    {
+        "Ticker": "TSLA",
+        "Fecha_Entrada": "31/03/2023 07:06:05",
+        "Fecha_Salida": "31/03/2023 07:06:05",
+        "Precio_Entrada": 3554.0,
+        "Direccion": "LONG",
+        "Precio_Salida": 3702.0,
+        "Comision": 0.0,
+        "Id_Notas": 0,
+        "Estado": "Close",
+        "Id_Cuenta": 31,
+        "id": 5
+    }
+]

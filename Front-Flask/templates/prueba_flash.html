@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ title }}</title>
+</head>
+<body>
+	{% with mensajes = get_flashed_messages() %}
+		{% if mensajes %}
+			<div class="alert alert-{{ mensajes }}">
+				<ul>
+					{% for mensaje in mensajes %}
+						<li>{{ mensaje }}</li>
+					{% endfor %}
+				</ul>
+			</div>
+		{% endif %}
+	{% endwith %}
+
+	{% block contenido %}{% endblock %}
+
+</body>
+</html>
